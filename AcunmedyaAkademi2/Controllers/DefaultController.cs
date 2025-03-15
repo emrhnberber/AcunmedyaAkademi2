@@ -55,5 +55,11 @@ namespace AcunmedyaAkademi2.Controllers
             var values = context.Services.ToList();
             return PartialView(values); 
         }
+
+        public PartialViewResult PartialTestimonial() 
+        { 
+            var values = context.Testimonials.ToList();
+            return PartialView(values);
+        }
     }
 }

@@ -128,9 +128,12 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Context\SweetContext.cs" />
+    <Compile Include="Controllers\AdminAboutController.cs" />
     <Compile Include="Controllers\AdminCategoryController.cs" />
     <Compile Include="Controllers\AdminLayoutController.cs" />
     <Compile Include="Controllers\AdminProductController.cs" />
+    <Compile Include="Controllers\AdminStatisticController.cs" />
+    <Compile Include="Controllers\AdminTestimonialController.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
     <Compile Include="Controllers\ErrorPagesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -390,6 +393,15 @@
     <Content Include="Views\AdminLayout\PartialSideBar.cshtml" />
     <Content Include="Views\AdminCategory\CategoryList.cshtml" />
     <Content Include="Views\Login\Index.cshtml" />
+    <Content Include="Views\Default\PartialTestimonial.cshtml" />
+    <Content Include="Views\AdminCategory\CreateCategory.cshtml" />
+    <Content Include="Views\AdminCategory\UpdateCategory.cshtml" />
+    <Content Include="Views\AdminAbout\AboutList.cshtml" />
+    <Content Include="Views\AdminAbout\UpdateAbout.cshtml" />
+    <Content Include="Views\AdminTestimonial\TestimonialList.cshtml" />
+    <Content Include="Views\AdminTestimonial\CreateTestimonial.cshtml" />
+    <Content Include="Views\AdminTestimonial\UpdateTestimonial.cshtml" />
+    <Content Include="Views\AdminStatistic\StatisticList.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

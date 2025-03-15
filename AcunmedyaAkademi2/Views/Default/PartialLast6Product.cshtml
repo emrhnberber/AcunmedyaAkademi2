@@ -17,7 +17,16 @@
                             <div class="cream_img"><img src="@item.ImageUrl"></div>
                             <div class="price_text">@item.Price</div>
                             <h6 class="strawberry_text">@item.ProductName</h6>
-                            <div class="cart_bt"><a href="#">Ürün Detayları</a></div>
+                            <div class="cart_bt">
+                                <a href="#" class="openModal"
+                                   data-image="@item.ImageUrl"
+                                   data-name="@item.ProductName"
+                                   data-price="@item.Price"
+                                   data-description="@item.Description">
+                                    Ürün Detayları
+                                </a>
+                            </div>
+
                         </div>
                     </div>
                 }
