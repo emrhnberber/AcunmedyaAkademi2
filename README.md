@@ -27,6 +27,7 @@ Bu proje, **AcunMedyaAkademi C# ile Programlama** eğitimi kapsamında ikinci ö
 ## 📸 Proje Görselleri  
 
 ### 🛠️ Yönetim Paneli
+![Yönetim Paneli](AcunmedyaAkademi2/screenshots/yg.png)
 ![Yönetim Paneli](AcunmedyaAkademi2/screenshots/y1.png)
 ![Yönetim Paneli](AcunmedyaAkademi2/screenshots/y2.png)
 ![Yönetim Paneli](AcunmedyaAkademi2/screenshots/y3.png)
