@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|c:\\visualstudioprojeleri\\acunmedyaakademi2\\acunmedyaakademi2\\views\\adminproduct\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|solutionrelative:acunmedyaakademi2\\views\\adminproduct\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\acunmedyaakademi2\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|solutionrelative:acunmedyaakademi2\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|c:\\visualstudioprojeleri\\acunmedyaakademi2\\acunmedyaakademi2\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|solutionrelative:acunmedyaakademi2\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|c:\\visualstudioprojeleri\\acunmedyaakademi2\\acunmedyaakademi2\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\acunmedyaakademi2\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|solutionrelative:acunmedyaakademi2\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|c:\\visualstudioprojeleri\\acunmedyaakademi2\\acunmedyaakademi2\\views\\default\\partialnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\acunmedyaakademi2\\views\\default\\partialnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|solutionrelative:acunmedyaakademi2\\views\\default\\partialnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -19,15 +27,11 @@
       "RelativeMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|solutionrelative:acunmedyaakademi2\\views\\default\\partialhead.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|c:\\visualstudioprojeleri\\acunmedyaakademi2\\acunmedyaakademi2\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\acunmedyaakademi2\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|solutionrelative:acunmedyaakademi2\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|c:\\visualstudioprojeleri\\acunmedyaakademi2\\acunmedyaakademi2\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|solutionrelative:acunmedyaakademi2\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|c:\\visualstudioprojeleri\\acunmedyaakademi2\\acunmedyaakademi2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\acunmedyaakademi2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{721A74ED-4F2F-4CB2-964E-33E4D71F45D8}|AcunmedyaAkademi2\\AcunmedyaAkademi2.csproj|solutionrelative:acunmedyaakademi2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -55,19 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\AcunmedyaAkademi2\\Views\\AdminProduct\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "AcunmedyaAkademi2\\Views\\AdminProduct\\ProductList.cshtml",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\AcunmedyaAkademi2\\Views\\AdminProduct\\ProductList.cshtml",
+              "RelativeToolTip": "AcunmedyaAkademi2\\Views\\AdminProduct\\ProductList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T00:18:39.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\AcunmedyaAkademi2\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "AcunmedyaAkademi2\\Views\\Login\\Index.cshtml",
               "ToolTip": "C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\AcunmedyaAkademi2\\Views\\Login\\Index.cshtml",
               "RelativeToolTip": "AcunmedyaAkademi2\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-15T23:44:49.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PartialSideBar.cshtml",
               "DocumentMoniker": "C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\AcunmedyaAkademi2\\Views\\AdminLayout\\PartialSideBar.cshtml",
               "RelativeDocumentMoniker": "AcunmedyaAkademi2\\Views\\AdminLayout\\PartialSideBar.cshtml",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\AcunmedyaAkademi2\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "AcunmedyaAkademi2\\Views\\Home\\Contact.cshtml",
@@ -88,12 +105,11 @@
               "RelativeToolTip": "AcunmedyaAkademi2\\Views\\Home\\Contact.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-15T23:31:11.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:31:11.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PartialNavbar.cshtml",
               "DocumentMoniker": "C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\AcunmedyaAkademi2\\Views\\Default\\PartialNavbar.cshtml",
               "RelativeDocumentMoniker": "AcunmedyaAkademi2\\Views\\Default\\PartialNavbar.cshtml",
@@ -101,12 +117,11 @@
               "RelativeToolTip": "AcunmedyaAkademi2\\Views\\Default\\PartialNavbar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-15T23:30:53.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:30:53.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\AcunmedyaAkademi2\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "AcunmedyaAkademi2\\Views\\Default\\Index.cshtml",
@@ -114,12 +129,11 @@
               "RelativeToolTip": "AcunmedyaAkademi2\\Views\\Default\\Index.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAFAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-15T23:11:34.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T23:11:34.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\AcunmedyaAkademi2\\Views\\AdminLayout\\Index.cshtml",
               "RelativeDocumentMoniker": "AcunmedyaAkademi2\\Views\\AdminLayout\\Index.cshtml",
@@ -132,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PartialHead.cshtml",
               "DocumentMoniker": "C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\AcunmedyaAkademi2\\Views\\Default\\PartialHead.cshtml",
               "RelativeDocumentMoniker": "AcunmedyaAkademi2\\Views\\Default\\PartialHead.cshtml",
@@ -140,12 +154,11 @@
               "RelativeToolTip": "AcunmedyaAkademi2\\Views\\Default\\PartialHead.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T21:30:35.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T21:30:35.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\AcunmedyaAkademi2\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "AcunmedyaAkademi2\\Controllers\\LoginController.cs",
@@ -153,12 +166,11 @@
               "RelativeToolTip": "AcunmedyaAkademi2\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T11:19:49.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T11:19:49.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AdminLayoutController.cs",
               "DocumentMoniker": "C:\\VisualStudioProjeleri\\AcunmedyaAkademi2\\AcunmedyaAkademi2\\Controllers\\AdminLayoutController.cs",
               "RelativeDocumentMoniker": "AcunmedyaAkademi2\\Controllers\\AdminLayoutController.cs",
@@ -166,8 +178,7 @@
               "RelativeToolTip": "AcunmedyaAkademi2\\Controllers\\AdminLayoutController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T20:34:33.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T20:34:33.78Z"
             }
           ]
         }
