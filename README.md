@@ -27,7 +27,16 @@ Bu proje, **AcunMedyaAkademi C# ile Programlama** eğitimi kapsamında ikinci ö
 ## 📸 Proje Görselleri  
 
 ### 🛠️ Yönetim Paneli
-![Veritabanı](screenshots/Database.png)  
+![Yönetim Paneli](AcunmedyaAkademi2/screenshots/y1.png)
+![Yönetim Paneli](AcunmedyaAkademi2/screenshots/y2.png)
+![Yönetim Paneli](AcunmedyaAkademi2/screenshots/y3.png)
+![Yönetim Paneli](AcunmedyaAkademi2/screenshots/y4.png)
+![Yönetim Paneli](AcunmedyaAkademi2/screenshots/y5.png)  
 
 ### 🔍 Web Site
-![Veritabanı](screenshots/Database.png)  
+![Web](AcunmedyaAkademi2/screenshots/w1.png)  
+![Web](AcunmedyaAkademi2/screenshots/w2.png)
+![Web](AcunmedyaAkademi2/screenshots/w3.png)
+![Web](AcunmedyaAkademi2/screenshots/w4.png)
+![Web](AcunmedyaAkademi2/screenshots/w5.png)
+![Web](AcunmedyaAkademi2/screenshots/w6.png)  
